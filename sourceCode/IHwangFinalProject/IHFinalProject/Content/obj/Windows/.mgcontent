@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Fonts/highlightfont.spritefont</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Fonts/messagefont.spritefont</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Fonts/regularfont.spritefont</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/Ball.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/Bat.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/brick.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/brickBreakerLogo.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/explosion.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/gameOver.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/helpScene.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/space.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Images/spaceBackgroundWithLogo.png</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Sounds/background.wav</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Sounds/bound.wav</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Sounds/explosion.wav</File>
+    <File>C:/Users/hic08/Desktop/IHwangFinalProject/IHFinalProject/Content/Sounds/fail.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

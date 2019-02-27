@@ -1,0 +1,355 @@
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe.manifest
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.application
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe.manifest
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.application
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+D:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\gameOver.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brick.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\fail.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\bound.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\background.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\fail.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\bound.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\background.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\gameOver.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brick.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\background.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\bound.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\fail.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brick.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\gameOver.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+C:\Users\hic08\Desktop\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\messagefont.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\background.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\bound.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\fail.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brick.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\gameOver.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\messagefont.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe.manifest
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.application
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.TrustInfo.xml
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe.manifest
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.application
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+C:\Users\hic08\Desktop\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\background.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\bound.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\fail.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brick.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\gameOver.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\messagefont.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe.manifest
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.application
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.TrustInfo.xml
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe.manifest
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.application
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+F:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\background.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\bound.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\fail.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brick.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\gameOver.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\messagefont.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe.manifest
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.application
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.TrustInfo.xml
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe.manifest
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.application
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+E:\Martin\CP LEVEL3\GPwithDS\assignment\IHwangFinalProject\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\background.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\bound.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Sounds\fail.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brick.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\brickBreakerLogo.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\explosion.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\gameOver.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\helpScene.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\space.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Images\spaceBackgroundWithLogo.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\highlightfont.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\messagefont.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe.manifest
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.application
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.exe
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\IHFinalProject.pdb
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csprojAssemblyReference.cache
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CoreCompileInputs.cache
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.TrustInfo.xml
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe.manifest
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.application
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.csproj.CopyComplete
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.exe
+F:\MARTIN\CP LEVEL3\GPwithDS\assignment\IHwangFinalProjectFinal\sourceCode\IHwangFinalProject\IHFinalProject\obj\x86\Debug\IHFinalProject.pdb
